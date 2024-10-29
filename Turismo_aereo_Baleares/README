@@ -1,0 +1,19 @@
+# PREDICCIÓN DE TURISMO AÉREO EN LAS ISLAS BALEARES
+
+## Proyecto
+El objetivo del proyecto es desarrollar un modelo predictivo que permita anticipar el turismo aereo en las Islas Baleares.
+Los datos han sido obtenidos de la Agencia de Estrategia Turística de las Islas Baleares, Consejería de Modelo Económico,Turismo y Trabajo.
+Gobierno de las Islas Baleares. He recopilado la cantidad de cantidad de turistas por isla y por mes desde 2010 hasta 2023.
+
+## Archivos
+- Gradio_Docker:
+  Carpeta con la app y un README con todas las instrucciones.
+
+- PREDICCIÓN_DE_TURISMO_AEREO_EN_LAS_ISLAS_BALEARES.ipynb:
+  Colab file.
+
+- enlace_colab.txt:
+  Enlace a colab.
+
+- cantidad_turistas_baleares.CSV
+  Datos de todos los turistas aéreos de cada isla.
