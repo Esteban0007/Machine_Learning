@@ -1,0 +1,8 @@
+numpy==1.23.5             
+mediapipe==0.10.0
+opencv-python-headless==4.7.0.72
+tensorflow==2.16.2
+Keras==3.6.0
+gradio==3.41.1
+scipy==1.14.1
+gradio>=3.0.0
